@@ -1,0 +1,25 @@
+{
+    "roboto": {
+        "normal": "roboto_normal_761de69d6925ce04c063ff79e0c4c301",
+        "bold": "roboto_bold_506d94bf1b90a1d044c70f027fe10157"
+    },
+    "roboto bold": {
+        "bold": "roboto_bold_bold_506d94bf1b90a1d044c70f027fe10157"
+    },
+    "droidsansfallback": {
+        "normal": "droidsansfallback",
+        "500": "droidsansfallback_500_d15fe4edb6c517a40d34aae3026f6adc",
+        "bold": "droidsansfallback_bold_d15fe4edb6c517a40d34aae3026f6adc"
+    },
+    "dejavu sans": {
+        "bold": "dejavu_sans_bold_c1bb05c6392bd989e70643ec997ffdbf",
+        "bold_italic": "DejaVuSans-BoldOblique",
+        "italic": "DejaVuSans-Oblique",
+        "normal": "DejaVuSans",
+        "500": "dejavu_sans_500_11555a268dfb62b184816633294e6d2c"
+    },
+    "noto naskh arabic": {
+        "500": "noto_naskh_arabic_500_db9e9b17ab19284c5884582d940c0707",
+        "bold": "noto_naskh_arabic_bold_b11aa723f3d5f6217df1cab9af9cde89"
+    }
+}
